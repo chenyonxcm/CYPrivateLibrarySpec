@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CYPrivateLibrarySpec_Tests' do
+  pod 'CYPrivateLibrarySpec', :path => '../'
+  
+  
+end
